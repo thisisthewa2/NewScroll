@@ -8,9 +8,7 @@ BBC뉴스 api를 받아 리스트를 생성하고 리스트아이템을 클릭�
 <img src = "https://user-images.githubusercontent.com/119280160/229792554-05705513-92cb-4e7a-9c87-6aaa4b42a46f.png" width = "200" height = "400"/>
 
 - 코드
-
- '''
- 
+```
 import SwiftUI
 import SwiftyJSON
 import SDWebImageSwiftUI
@@ -104,5 +102,4 @@ struct webView : UIViewRepresentable{
         
     }
 }
-
- '''
+```
