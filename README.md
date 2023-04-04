@@ -9,7 +9,7 @@ BBC뉴스 api를 받아 리스트를 생성하고 리스트아이템을 클릭�
 
 - 코드
 
- '''c
+ '''
  
 import SwiftUI
 import SwiftyJSON
